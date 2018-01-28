@@ -12,6 +12,16 @@ p, ul, .button, body {
   font-size: 1.4em;
 }
 
+ol {
+  font-family: 'Crimson Text', Georgia, Times, serif;
+  font-size: 1.4em;
+}
+
+.disclaimer {
+  font-family: 'Crimson Text', Georgia, Times, serif;
+  font-size: 50%;
+}
+
 code {
   font-family: 'Inconsolata', monospace;
 }
@@ -356,9 +366,9 @@ ol, ul {
 ul ul,
 ul ol,
 ol ol,
-ol ul {
-  margin: 1.5rem 0 1.5rem 3rem;
-  font-size: 90%; }
+ol ul,
+ol li {
+  margin: 1.5rem 1.5rem 1.5rem 1.5rem; }
 li {
   margin-bottom: 1rem; }
 

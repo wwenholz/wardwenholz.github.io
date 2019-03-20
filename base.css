@@ -1,3 +1,16 @@
+/* Custom
+================================================== */
+.about-photo {
+  float: right;
+  padding: 9px;
+  width: 260px;
+}
+
+.headshot {
+  float: right;
+  padding: 9px;
+  width: 160px;
+}
 /* Fonts
 ================================================== */
 body {
